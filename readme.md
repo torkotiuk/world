@@ -1,1 +1,1 @@
-# Everithyng asbout fishing
+# Everything asbout fishing
