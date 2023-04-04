@@ -1,7 +1,14 @@
+// utils
+@import './utils/current';
+
 // base
 @import './base/base';
 @import './base/container';
 @import './base/section';
+
+// components
+@import './components/logo';
+@import './components/nav';
 
 // layouts
 @import './layouts/header';
